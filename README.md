@@ -1,6 +1,6 @@
 # AlgorithmsInJava
 
-time for 100 000 elements: 
+time for 100 000 int elements: 
 
 ---------Bubble Sort---------
 
